@@ -1,0 +1,5 @@
+ChromeDriver=C:\\Users\\shivr\\OneDrive\\Desktop\\selenium\\selenium jar\\chromedriver_win32\\chromedriver.exe
+url=https://www.fotor.com/
+username=txtUsername
+password=txtPassword
+loginButton=Sign In

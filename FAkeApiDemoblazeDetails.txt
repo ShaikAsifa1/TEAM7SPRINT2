@@ -1,0 +1,20 @@
+TEAM-7
+FAKEAPI_DEMOBLAZE
+
+Team members:
+Asifa Rukmani Shivraj Sirisha
+
+Day-1
+Postman for Fake API
+Asifa-Authors
+      parameterisation
+Rukmani-Authors(negative flow)
+        assertions
+Sirisha-Activity
+Shivraj-RESTassure
+
+Day2 to Day5
+Shivraj-Signup,Login
+Rukmani-Add to cart
+Asifa-Place order
+Sirisha-Contact store,Logout.
